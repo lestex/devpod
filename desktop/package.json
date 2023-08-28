@@ -24,7 +24,7 @@
     "@emotion/styled": "11.11.0",
     "@headlessui/react": "1.7.15",
     "@tanstack/react-query": "4.29.19",
-    "@tanstack/react-query-devtools": "4.29.19",
+    "@tanstack/react-query-devtools": "4.32.6",
     "@tanstack/react-table": "8.9.3",
     "@tauri-apps/api": "1.4.0",
     "dayjs": "1.11.9",
